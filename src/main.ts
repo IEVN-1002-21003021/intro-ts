@@ -8,6 +8,7 @@ import './temas-ts/06-Import-export.ts'
 import './temas-ts/07-classe.ts'*/
 import './temas-ts/08-herencia.ts'
 import './temas-ts/distancia-entre-dos puntos.ts'
+/*import './temas-ts/triangulo.ts'*/
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
